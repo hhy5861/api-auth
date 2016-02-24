@@ -1,0 +1,21 @@
+{
+    "name": "mike/api-auth",
+    "description": "RESTful Auth for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","Auth", "RESTful"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Huang",
+            "email": "hhy5861@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mike\\auth\\": ""
+        }
+    }
+}
