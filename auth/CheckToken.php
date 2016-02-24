@@ -6,7 +6,7 @@
  * Time: 下午4:27
  */
 
-namespace api\components\auth;
+namespace mike\auth\auth;
 
 use Yii;
 use mike\auth\tools\Encrypt;
